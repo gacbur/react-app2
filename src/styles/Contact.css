@@ -1,0 +1,45 @@
+.form{
+    margin-top:3em;
+    padding:3em 1.5em;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    width:500px;
+}
+
+.form h2{
+    padding-bottom: 1em;
+}
+
+.form input{
+    width: 50%;
+}
+
+.form button{
+    border:none;
+    color:white;
+    font-size: 17px;
+    margin-top:1em;
+    padding:.5em 2em;
+    background-color: rebeccapurple;
+    cursor: pointer;
+}
+
+.form textarea{
+    width: 100%;
+    min-height: 200px;
+    max-height: 400px;
+    max-width:400px;
+    min-width:100%;
+}
+
+.form label{
+    margin-bottom:.3em;
+    font-size: 14px;
+    display: block;
+}
+
+.form button{
+    display: block;
+    margin-left: auto;
+    
+}
